@@ -1,0 +1,11 @@
+.bx {
+  margin: 30px;
+  height: 180px;
+  width: 80%;
+  border: 1px groove black;
+  border-radius: 25px;
+  background-color: gray;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*# sourceMappingURL=Style.css.map */

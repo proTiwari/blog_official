@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,GAAG,CAAA;EACC,MAAM,EAAC,IAAI;EACX,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,GAAG;EACV,MAAM,EAAC,GAAG,CAAC,MAAM,CAAC,KAAY;EAC9B,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,IAAI;EACtB,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "Style.scss",
+        "_box.scss"
+    ],
+    "names": [],
+    "file": "Style.css"
+}

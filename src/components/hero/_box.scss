@@ -1,0 +1,45 @@
+header h2{
+  margin-top: 33px;
+  margin-left:10vw;
+  
+}
+
+div.container {
+
+    align-items: center;
+    margin-top: 23px;
+    box-sizing: border-box;
+    width: 80%;
+    font-size:12px;
+    border-inline-start: solid; 
+    writing-mode: horizontal-tb;
+    border-left-width: 0.7em;
+    display: flex;
+    
+   
+  }
+  
+
+  div.box {
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 70%;
+    color: rgb(12, 0, 116);
+    font-size: 1.5rem;
+    height: 60px;
+  }
+
+
+  div.box1 {
+    float: right;
+    box-sizing: border-box;
+    width: 5%;
+    height:60px;
+
+   img{
+    height:60px;
+    width: 90px;   
+    border-inline-end: solid; 
+   }
+ 
+  }
